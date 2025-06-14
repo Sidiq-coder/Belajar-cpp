@@ -25,6 +25,6 @@ int main(){
     }
 
     
-   
+   cout << sizeof(arr);
     return 0;
 }
